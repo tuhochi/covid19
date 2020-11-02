@@ -306,11 +306,11 @@ L 140 305
 L 144 304
 L 148 285
 L 152 302
-L 155 314
+L 155 313
 L 159 317
 L 163 306
 L 167 315
-L 170 317
+L 170 316
 L 174 323
 L 178 326
 L 182 334
@@ -502,7 +502,7 @@ L 879 283
 L 882 271
 L 886 281
 L 890 273
-L 894 288
+L 894 287
 L 897 299
 L 901 280
 L 905 270
@@ -513,15 +513,15 @@ L 920 261
 L 924 276
 L 928 253
 L 931 227
-L 935 187
+L 935 186
 L 939 151
-L 943 143
+L 943 142
 L 946 167
 L 950 202
 L 954 183
-L 958 81
+L 958 80
 L 961 73
-L 965 42
+L 965 41
 L 969 11
 L 973 66
 L 976 131" style="stroke-width:1;stroke:rgba(0,217,101,1.0);fill:none"/><path  d="M 38 351
@@ -756,10 +756,10 @@ L 897 175
 L 901 120
 L 905 153
 L 909 175
-L 912 142
+L 912 131
 L 916 153
-L 920 131
-L 924 263" style="stroke-width:1;stroke:rgba(217,0,116,1.0);fill:none"/><text x="397" y="33" style="stroke-width:0;stroke:none;fill:rgba(51,51,51,1.0);font-size:23.0px;font-family:'Roboto Medium',sans-serif">Österreich 01.11.2020</text><path  d="M 38 11
+L 920 120
+L 924 252" style="stroke-width:1;stroke:rgba(217,0,116,1.0);fill:none"/><text x="397" y="33" style="stroke-width:0;stroke:none;fill:rgba(51,51,51,1.0);font-size:23.0px;font-family:'Roboto Medium',sans-serif">Österreich 01.11.2020</text><path  d="M 38 11
 L 251 11
 L 251 91
 L 38 91
