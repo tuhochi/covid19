@@ -664,7 +664,7 @@ L 720 185
 L 723 164
 L 725 140
 L 728 173
-L 730 185
+L 730 186
 L 733 159
 L 735 116
 L 738 88
@@ -672,7 +672,7 @@ L 741 94
 L 743 51
 L 746 154
 L 748 139
-L 751 120
+L 751 119
 L 753 75
 L 756 11
 L 758 46
@@ -700,9 +700,9 @@ L 812 215
 L 814 218
 L 817 244
 L 819 274
-L 822 258
+L 822 257
 L 825 253
-L 827 259
+L 827 258
 L 830 236
 L 832 245
 L 835 253
@@ -742,7 +742,7 @@ L 919 294
 L 921 293
 L 924 299
 L 926 314
-L 929 291
+L 929 290
 L 931 289
 L 934 286
 L 936 284
@@ -757,8 +757,8 @@ L 957 295
 L 959 310
 L 962 309
 L 964 302
-L 967 290
-L 969 302" style="stroke-width:1;stroke:rgba(0,217,101,1.0);fill:none"/><path  d="M 38 351
+L 967 289
+L 969 301" style="stroke-width:1;stroke:rgba(0,217,101,1.0);fill:none"/><path  d="M 38 351
 L 41 351
 L 44 351
 L 46 351
@@ -1109,8 +1109,8 @@ L 921 235
 L 924 267
 L 926 267
 L 929 264
-L 931 269
-L 934 301" style="stroke-width:1;stroke:rgba(217,0,116,1.0);fill:none"/><text x="397" y="33" style="stroke-width:0;stroke:none;fill:rgba(51,51,51,1.0);font-size:23.0px;font-family:'Roboto Medium',sans-serif">Österreich 03.02.2021</text><path  d="M 38 11
+L 931 267
+L 934 298" style="stroke-width:1;stroke:rgba(217,0,116,1.0);fill:none"/><text x="397" y="33" style="stroke-width:0;stroke:none;fill:rgba(51,51,51,1.0);font-size:23.0px;font-family:'Roboto Medium',sans-serif">Österreich 03.02.2021</text><path  d="M 38 11
 L 251 11
 L 251 91
 L 38 91
