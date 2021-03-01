@@ -290,9 +290,9 @@ L 691 60
 L 693 77
 L 696 91
 L 698 115
-L 701 121
-L 703 159
-L 706 130
+L 701 120
+L 703 158
+L 706 129
 L 708 131
 L 711 119
 L 713 113
@@ -392,9 +392,9 @@ L 946 296
 L 949 295
 L 951 294
 L 954 290
-L 956 289
-L 959 291
-L 961 301" style="stroke-width:1;stroke:rgba(0,116,217,1.0);fill:none"/><path  d="M 38 351
+L 956 288
+L 959 290
+L 961 294" style="stroke-width:1;stroke:rgba(0,116,217,1.0);fill:none"/><path  d="M 38 351
 L 41 351
 L 44 351
 L 46 351
@@ -762,7 +762,7 @@ L 951 346
 L 954 345
 L 956 347
 L 959 347
-L 961 350" style="stroke-width:1;stroke:rgba(0,217,101,1.0);fill:none"/><path  d="M 38 351
+L 961 347" style="stroke-width:1;stroke:rgba(0,217,101,1.0);fill:none"/><path  d="M 38 351
 L 41 351
 L 44 351
 L 46 351
